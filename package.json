@@ -1,0 +1,17 @@
+{
+  "name": "the-monolith-versus-the-microservice",
+  "version": "1.0.0",
+  "description": "a tale of two applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marak <marak.squires@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.1",
+    "minimist": "*",
+    "run-service": "1.x.x",
+    "run-remote-service": "1.x.x"
+  }
+}
